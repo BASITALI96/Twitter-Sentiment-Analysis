@@ -16,11 +16,9 @@ The Twitter Sentiment Analysis Project is a Python-based application designed to
 git clone https://github.com/BASITALI96/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
 
-2. Install Dependencies
-
 pip install -r requirements.txt
 
-Setting up Twitter API Access
+### Setting up Twitter API Access
 To fetch tweets, you need to have a Twitter Developer account and create an application to obtain your API keys:
 
 Go to the Twitter Developer Platform and sign in.
